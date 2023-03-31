@@ -549,15 +549,15 @@ class _LoginState extends State<Login> {
                   },
                 ),
               ),
-              if(Platform.isIOS)
-              Padding(
-                padding: const EdgeInsets.only(top: 20.0),
-                child: SignInWithAppleButton(
-                  onPressed: () async {
-                    signInWithApple();
-                    },
-                ),
-              ),
+              // if(Platform.isIOS)
+              // Padding(
+              //   padding: const EdgeInsets.only(top: 20.0),
+              //   child: SignInWithAppleButton(
+              //     onPressed: () async {
+              //       signInWithApple();
+              //       },
+              //   ),
+              // ),
               Visibility(
                 visible: allow_google_login.$ || allow_facebook_login.$,
                 child: Padding(
@@ -616,7 +616,7 @@ class _LoginState extends State<Login> {
                               ),
                             ),
                           ),
-                       /* if (Platform.isIOS)
+                        /* if (Platform.isIOS)
                           Padding(
                             padding: const EdgeInsets.only(left: 15.0),
                             // visible: true,
