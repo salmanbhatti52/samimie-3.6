@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/fbc3a4bc46e5b935f5256f8a033ff8c6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/fbc3a4bc46e5b935f5256f8a033ff8c6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/fbc3a4bc46e5b935f5256f8a033ff8c6/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/video_player_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/f985c832722b5ec23f69b55873920154/core-1.7.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/video_player_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/f985c832722b5ec23f69b55873920154/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/video_player_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/f985c832722b5ec23f69b55873920154/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Office/Development/Mobile Apps/Samimie/USERS/V3.6B1/source/build/video_player_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/salmanahmad/.gradle/caches/transforms-2/files-2.1/f985c832722b5ec23f69b55873920154/core-1.7.0/res/drawable/notification_bg.xml"
+    }
+]
